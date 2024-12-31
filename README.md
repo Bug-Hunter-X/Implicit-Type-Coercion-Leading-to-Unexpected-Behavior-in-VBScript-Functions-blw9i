@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in VBScript related to implicit type coercion within functions. The function 'f' exhibits unexpected behavior when a negative or zero input is passed. The solution involves explicit type checking to prevent type mismatch errors.
